@@ -1,4 +1,4 @@
-### Hi there 👋
+# Benjamin here! 👋
 
 <!--
 **Benjamin-PETEL/Benjamin-PETEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+You can learn more about me here:
+- https://www.linkedin.com/in/benjamin-petel/
+- https://benjaminpetel.fr
+- https://benjaminpetel.fr/img/CV_Benjamin_PETEL.pdf
